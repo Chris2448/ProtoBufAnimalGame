@@ -1,0 +1,17 @@
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\bin\Debug\Client.exe.config
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\bin\Debug\Client.exe
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\bin\Debug\Client.pdb
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\obj\Debug\Client.exe
+c:\users\christopher\documents\visual studio 2015\Projects\AnimalGame\Client\obj\Debug\Client.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Client.exe.config
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Client.exe
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Client.pdb
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Google.Protobuf.dll
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\obj\Debug\Client.exe
+C:\Users\Christopher\Documents\Visual Studio 2015\Projects\AnimalGameProtBuff\Client\obj\Debug\Client.pdb

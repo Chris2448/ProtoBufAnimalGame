@@ -1,0 +1,8 @@
+syntax = "proto3";
+package protobuffer;
+
+option csharp_namespace = "Server";
+message communicate 
+{
+string protomessage = 1;
+}
